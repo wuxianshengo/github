@@ -1,9 +1,18 @@
-div{
-    width: 200px;
-    height: 200px;
+.to{
+    width: 400px;
+    height: 400px;
     margin: auto;
     padding: 0px;
     color: pink;
     background-color: plum;
+    font-size: 35px;
+}
+.add{
+    width: 200px;
+    height: 200px;
+    margin: auto;
+    padding: 0px;
+    color:plum ;
+    background-color: pink;
     font-size: 35px;
 }
